@@ -1,1 +1,1 @@
-# Graph-Neural-Networks---Social-Network-Analysis-and-Recommendation
+# Graph-Neural-Networks-Social-Network-Analysis-and-Recommendation
